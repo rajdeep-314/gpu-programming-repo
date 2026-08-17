@@ -1,0 +1,25 @@
+Found 1 CUDA device(s).
+
+--- Device 0: Tesla T4 ---
+  Compute Capability:              7.5
+  Total Global Memory:             14912 MB
+  Streaming Multiprocessors:       40
+  Cores Per SM:                    64
+  Total Cores:                     2560
+  Max Threads Per Block:           1024
+  Shared Memory Per Block:         48 KB
+  Warp Size:                       32
+  Max Threads Per SM:              1024
+  Max Threads Per Block (x, y, z): (1024, 1024, 64)
+  Max Grid Size (x, y, z):         (2147483647, 65535, 65535)
+  Registers Per Block:             65536
+  Registers Per SM:                65536
+  Max Blocks Per SM:               16
+  Shared Memory Per SM:            64 KB
+  Reserved Shared Memory/Block:    0 KB
+  Total Constant Memory:           64 KB
+  L2 Cache Size:                   4096 KB
+  Memory Bus Width:                256 bits
+  Concurrent Kernels:              Yes
+  Compute Preemption:              Yes
+
